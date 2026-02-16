@@ -71,11 +71,11 @@ As a result, visualizations always reflect the latest successfully processed ear
 
 ## Pipeline Execution
 
-![Pipeline Success](screenshots/pipeline-success.png)
+![Pipeline Success](screenshots/pipeline-success.PNG)
 
 ## Data Serving Schema
 
-![Serverless SQL Schema](screenshots/schema-view.png)
+![Serverless SQL Schema](screenshots/schema-view.PNG)
 
 ## Power BI Visualization
 
