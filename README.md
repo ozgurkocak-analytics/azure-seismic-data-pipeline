@@ -1,5 +1,7 @@
 # azure-seismic-data-pipeline
 End-to-end Azure-based seismic data analytics pipeline with automated ingestion, transformation, visualization, and alerting.
+Power BI dashboard connected via DirectQuery to Azure Synapse Serverless SQL for near real-time earthquake analytics.
+
 
 Automated End-to-End Seismic Data Analytics Pipeline
 
